@@ -1,6 +1,6 @@
 # MIPS Assembly Programs
 
-This repository contains a collection of MIPS assembly language programs designed for educational purposes.
+This repository contains a collection of MIPS assembly language programs designed for educational purposes and related to university coursework on Principles of Computing (PC).
 
 ## Table of Contents
 
