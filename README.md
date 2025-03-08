@@ -9,7 +9,7 @@ This repository contains a collection of MIPS assembly language programs designe
   - [MultiplyingTables.s](./programs/MultiplyingTables.s)
   - [PR1.s](./programs/PR1.s)
   - [float.s](./programs/float.s)
-- [License](./license)
+- [License](./LICENSE)
 
 ## Some Programs:
 
