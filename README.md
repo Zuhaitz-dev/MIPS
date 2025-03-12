@@ -4,11 +4,17 @@ This repository contains a collection of MIPS assembly language programs designe
 
 ## Table of Contents (***not all programs displayed***)
 
-- [Programs](./programs)
-  - [ExampleT3.s](./programs/exampleT3.s)
-  - [MultiplyingTables.s](./programs/MultiplyingTables.s)
-  - [PR1.s](./programs/PR1.s)
-  - [float.s](./programs/float.s)
+- [Floats](./Floats)
+  - [ProductTwoFloats.s](./Floats/ProductTwoFloats.s)
+  - [CostTravel.s](./Floats/CostTravel.s)
+- [HelloWorld](./HelloWorld)
+  - [HelloWorldA.s](./HelloWorld/HelloWorldA.s)
+- [Integers](./Integers)
+  - [Countdown.s](./Integers/Countdown.s)
+  - [PrimeChecker.s](./Integers/PrimeChecker.s)
+  - [MultiplyingTables.s](./Integers/MultiplyingTables.s)
+- [Strings](./Strings)
+  - [StringLengthCalculation.s](./Strings/StringLengthCalculation.s)
 - [License](./LICENSE)
 
 ## Some Programs:
@@ -17,7 +23,7 @@ This repository contains a collection of MIPS assembly language programs designe
 
 This program generates and displays multiplication tables. It demonstrates the use of loops, arithmetic operations, and output procedures in MIPS assembly language.
 
-### float.s
+### Float.s
 
 This program demonstrates floating-point arithmetic operations in MIPS assembly. It showcases how to handle and perform calculations with floating-point numbers using MIPS instructions.
 
